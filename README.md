@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mira she/her)<br><br>Bachelor-Student at University of Cologne in Computer Linguistic / Information Processing and Anthropology<br><br>Currently learning more about: <br>- Anime.js,<br>- APIs,<br>- Backend SQL Technologies,<br>- App Development in Kotlin,<br>- Graphic-/Sound Responsive Designs in Davinci Resolve, Canva and TouchDesigner <br><br><br>Current Courses from IDH:<br><br>- Sprachverarbeitung (Formalismen und Anwendungen)<br>- Datenbanktechnologien und Datenmodellierung<br>- Basissysteme der Informationsverarbeitung II<br>  
+I am Mira she/her)<br><br>Bachelor-Student at University of Cologne in Computer Linguistic / Information Processing and Anthropology<br><br><br>Current Courses from IDH:<br><br>- Sprachverarbeitung (Formalismen und Anwendungen)<br>- Datenbanktechnologien und Datenmodellierung<br>- Basissysteme der Informationsverarbeitung II<br>  
 
 
 # 💻 Tech Stack:
